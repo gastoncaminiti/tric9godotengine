@@ -1,6 +1,6 @@
-# TRIC IX - Desarrollo de Videojuegos Isométricos con Godot Engine
+#  Desarrollo de Videojuegos Isométricos con Godot Engine - TRIC IX
 
-> Repositorio del Workshop “Desarrollo de Videojuegos Isométricos con Godot Engine”\ 
+> Repositorio del Workshop “Desarrollo de Videojuegos Isométricos con Godot Engine” 
 > **Fecha**: Lunes 30 de Noviembre 2020
 
 En el evento indagamos sobre los fundamentos del desarrollo de videojuegos 2.5D isométricos y en cómo desarrollar algunos componentes esenciales en Godot Engine: jugador, enemigos y mapa. El encuentro se constituye bajo un enfoque teórico-práctico, donde se invitará a los participantes a trabajar con Godot Engine y a confeccionar sus propias escenas isométricas. 
